@@ -17,9 +17,14 @@
   font-size: 16px;
 }
 
-.escola-imagem{
+.escola-imagem-1{
   width: 25%;
 }
+
+.escola-imagem-2{
+  width: 35%;
+}
+
 .escola{
   background-image: linear-gradient( #f39c1a, #411500);
   color: white;
